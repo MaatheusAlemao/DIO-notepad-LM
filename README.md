@@ -150,27 +150,29 @@ Além desses, outra opção totalmente gratuita mencionada é o sql-practice.com
 três sites excelentes para praticar SQL de forma gratuita e totalmente online:
 SQLBolt: É amplamente recomendado como a forma mais rápida de começar a praticar sem a necessidade de baixar softwares ou criar uma conta
 . A plataforma oferece 18 lições estruturadas no navegador, onde você aprende um conceito e o aplica imediatamente em exercícios com feedback instantâneo
+
 E o legal e o power BI tambem pode ser aprendido online 
 Para aprender Power BI de forma interativa e prática, assim como as plataformas de SQL mencionadas anteriormente, existem opções que variam de trilhas oficiais gratuitas a comunidades focadas em projetos reais.
 Aqui estão as principais recomendações baseadas nas fontes:
+
 1. Microsoft Learn (O equivalente ao SQLBolt/Documentação)
-Esta é a plataforma oficial e gratuita da Microsoft. Ela segue uma lógica modular onde você lê o conceito e o aplica em laboratórios práticos
-.
-Como funciona: Oferece trilhas como "Preparar dados para análise" e "Modelar dados no Power BI", com ambientes de "sandbox" para testar recursos sem custo
-.
-Foco: É ideal para quem busca a certificação PL-300 (Microsoft Certified: Power BI Data Analyst Associate)
-.
+Esta é a plataforma oficial e gratuita da Microsoft. Ela segue uma lógica modular onde você lê o conceito e o aplica em laboratórios práticos.
+
+Como funciona: Oferece trilhas como "Preparar dados para análise" e "Modelar dados no Power BI", com ambientes de "sandbox" para testar recursos sem custo.
+
+Foco: É ideal para quem busca a certificação PL-300 (Microsoft Certified: Power BI Data Analyst Associate).
+
 2. Dataquest (O equivalente ao Dataquest SQL)
-Assim como sua trilha de SQL, o Dataquest possui um caminho de Business Analyst com Power BI focado na metodologia de "aprender fazendo"
-.
-Como funciona: Você trabalha em passos interativos no navegador para construir visualizações e realizar limpezas de dados
-.
-Diferencial: Foca em transformar dados brutos em insights acionáveis de forma sequencial
-.
+Assim como sua trilha de SQL, o Dataquest possui um caminho de Business Analyst com Power BI focado na metodologia de "aprender fazendo".
+
+Como funciona: Você trabalha em passos interativos no navegador para construir visualizações e realizar limpezas de dados.
+
+Diferencial: Foca em transformar dados brutos em insights acionáveis de forma sequencial.
+
 3. Xperiun - Leonardo Karpinski (Foco em Projetos Reais)
-Esta plataforma brasileira é amplamente reconhecida pelo foco em casos de uso de negócios (Business Cases)
-.
-Power BI Series: É um curso introdutório gratuito que ensina a sair do zero e criar dashboards profissionais (Financeiro, RH e Vendas) em poucas aulas
-.
-Metodologia: Utiliza uma plataforma gamificada com desafios, badges e foco total na prática de mercado
-.
+Esta plataforma brasileira é amplamente reconhecida pelo foco em casos de uso de negócios (Business Cases).
+
+Power BI Series: É um curso introdutório gratuito que ensina a sair do zero e criar dashboards profissionais (Financeiro, RH e Vendas) em poucas aulas.
+
+Metodologia: Utiliza uma plataforma gamificada com desafios, badges e foco total na prática de mercado.
+
