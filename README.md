@@ -133,3 +133,21 @@ Como posso praticar SQL online.
 Como é feita a analise preditiva. 
 Como e possivel aprender sobre todos os tema mas que seja de modo ditadico e simples,onde treinar quanto tempo de estudo. sempre de modo simples.
  no ultimo prompt foi nescessario utilar o reforço de que precisa ser algo simples pois a IA começou a descrever com palavras um pouco complicadas 
+
+Como praticar SQL ? Que tal de modo online ?
+
+três sites excelentes para praticar SQL de forma gratuita e totalmente online:
+SQLBolt: É amplamente recomendado como a forma mais rápida de começar a praticar sem a necessidade de baixar softwares ou criar uma conta
+. A plataforma oferece 18 lições estruturadas no navegador, onde você aprende um conceito e o aplica imediatamente em exercícios com feedback instantâneo
+.
+SQLZoo: Esta plataforma utiliza uma abordagem prática e lúdica para o ensino de SQL
+. Ela oferece tutoriais interativos que abrangem desde comandos básicos até consultas mais complexas, permitindo que você digite comandos e veja os resultados na hora, o que ajuda a desenvolver o raciocínio lógico
+.
+Kaggle (Learn SQL): Destaca-se por permitir que o usuário pratique utilizando conjuntos de dados reais e massivos por meio do Google BigQuery
+. Além de ser gratuito, o curso do Kaggle é um dos poucos que oferece um certificado de conclusão gratuito, algo que geralmente é cobrado em outras plataformas
+.
+Além desses, outra opção totalmente gratuita mencionada é o sql-practice.com (ou sql-practice.online), que não exige registro e permite praticar em bancos de dados realistas de setores como saúde e e-commerce
+três sites excelentes para praticar SQL de forma gratuita e totalmente online:
+SQLBolt: É amplamente recomendado como a forma mais rápida de começar a praticar sem a necessidade de baixar softwares ou criar uma conta
+. A plataforma oferece 18 lições estruturadas no navegador, onde você aprende um conceito e o aplica imediatamente em exercícios com feedback instantâneo
+.
